@@ -62,5 +62,7 @@ if __name__ == '__main__':
     print('I have registred here!')
     print('programming is cool!')
     print('programming is cool!')
+    print('programming is cool!')
+    print('programming is coozzzl!')
 
 
