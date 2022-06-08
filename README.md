@@ -4,6 +4,5 @@
 
 ![PyPI - Downloads](https://img.shields.io/pypi/dm/lightautoml?color=green&label=PyPI%20downloads&logo=pypi&logoColor=orange&style=plastic)
 
-/github/stars/:org
 
 [![PyPI - Downloads](https://img.shields.io/github/stars/sb-ai-lab/eco2ai?style=social)
