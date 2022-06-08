@@ -7,7 +7,7 @@
 
 ![PyPI - Downloads](https://img.shields.io/github/stars/sb-ai-lab/eco2ai?style=social)
 
-![PyPI - Downloads](https://img.shields.io/pypi/dm/eco2ai?label=PyPI%20-%20Downloads&logo=pypi&logoColor=yellow&style=plastic)
+![PyPI - Downloads](https://img.shields.io/pypi/dm/eco2ai?color=brightgreen)
 [![PyPI - Downloads](https://img.shields.io/badge/%20PyPI%20-link%20for%20download-brightgreen)](https://shields.io/category/downloads)
 
 
